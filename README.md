@@ -20,6 +20,10 @@ A three-part data analytics project covering data cleaning, exploratory data ana
 | `customer_data.csv` | Customer dataset (200 customers) |
 | `Task4_Customer_Analysis.ipynb` | Customer segmentation and insights |
 | `customer_dashboard.png` | Customer insights dashboard |
+| `Task5_Web_Scraping.ipynb` | Web scraping, cleaning and analysis |
+| `scraper.py` | Automated scraper script |
+| `books_data.csv` / `books_data.xlsx` | Scraped dataset (100 books) |
+| `books_analysis.png` | Analysis charts |
 
 **Dataset columns:** employee_id, name, age, city, department, salary, join_date
 
@@ -101,12 +105,29 @@ Analyzed 200 customers (total revenue about 2.4M) to understand buying behavior,
 - Cross-sell accessories to Electronics buyers.
 - Win-back discounts for inactive customers.
 - Local offers in Pune and Hyderabad.
+
+## Task 5: Web Data Extraction & Analysis
+Scraped 100 books from books.toscrape.com (a practice site built for scraping) using Python, Requests and BeautifulSoup.
+
+**Process**
+- Collected title, price, star rating and stock status across 5 pages.
+- Cleaned the data: removed the £ symbol, converted prices to numbers, converted ratings from words to 1-5, and removed duplicates.
+- Explored price and rating patterns, then exported to CSV and Excel.
+- Wrote `scraper.py` so the whole process runs with one command.
+
+![Books Analysis](books_analysis.png)
+
+**Insights**
+- Prices range from about 10 to 60 pounds, with two clusters (around 15-20 and 50-55).
+- Ratings are spread almost evenly from 1 to 5 stars.
+- 5-star books have a lower median price (about 25 pounds), so higher price does not mean better ratings.
+- All 100 books were in stock.
   
 ---
 ## How to Run
 
 ```bash
-pip install pandas matplotlib seaborn notebook
+pip install pandas matplotlib seaborn notebook requests beautiulsoup4 openpyxl
 jupyter notebook
 ```
 Open the notebooks in order (Task 1, then 2, then 3). Open `Task3_Dashboard.pbix` with Power BI Desktop.
