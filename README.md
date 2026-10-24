@@ -90,4 +90,4 @@ jupyter notebook
 Open the notebooks in order (Task 1, then 2, then 3). Open `Task3_Dashboard.pbix` with Power BI Desktop.
 
 ## Author
-*Your Name* | Data Analytics Intern
+*Bhagyshree Mailgond*
