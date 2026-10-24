@@ -1,0 +1,64 @@
+Employee ID,Name,Age,City,Department,Salary,Join Date
+1001,Anjali Rao,25,delhi,HR,34000,2024-09-04
+1002,Anjali Rao,54,pune,Sales,52000,2018-02-14
+1003,Karan Verma,27, MUMBAI ,Marketing,95000,2021/01/27
+1004,Pooja Joshi,25,Mumbai,Marketing,98000,2022-07-02
+1005,Sneha Iyer,30,Mumbai,Finance,62000,2021-03-18
+1006,Priya Patel,33,Pune,IT,38000,2022-10-21
+1007,Sneha Iyer,,Bangalore,Sales,97000,2018/10/07
+1008,Neha Gupta,49,Hyderabad,Finance,65000,2021-10-15
+1009,Anjali Rao,33,bangalore,Marketing,114000,2024-04-03
+1010,Pooja Joshi,53,Bangalore,Finance,68000,2023-08-10
+1011,Pooja Joshi,54,,Sales,78000,2019-06-05
+1012,Siddharth Roy,24,chennai,HR,110000,2018-09-19
+1013,Imran Khan,44,Bangalore,IT,101000,2021-10-26
+1014,Neha Gupta,39,Mumbai,Sales,$85000,2023-11-03
+1015,Aarav Sharma,,Hyderabad,IT,61000,2023-07-22
+1016,Anjali Rao,44,Mumbai,HR,46000,2022-02-16
+1017,Aarav Sharma,30,Delhi,IT,119000,2019-07-13
+1018,Siddharth Roy,32,Chennai,Sales,82000,2021-09-09
+1019,Siddharth Roy,39,Delhi,HR,115000,2021-06-22
+1020,Siddharth Roy,31,chennai,Marketing,35000,2019/03/08
+1021,Rahul Das,53,Delhi,Sales,100000,2019-05-10
+1022,Aarav Sharma,45,Delhi,HR,103000,2022-06-05
+1023,Kavya Reddy,25,Pune,Finance,83000,2024-11-26
+1024,Arjun Nair,47,Chennai,HR,75000,2018-08-21
+1025,Karan Verma,26,Mumbai,Marketing,51000,2021-03-04
+1026,Anjali Rao,28,pune,Sales,25000,2022-03-18
+1027,Priya Patel,23,Bangalore,finance,34000,2024/04/20
+1028,Karan Verma,44,delhi,IT,102000,2020/08/04
+1029,Priya Patel,,Chennai,HR,86000,2020-02-05
+1030,Priya Patel,38,Hyderabad,IT,86000,2024-12-06
+1031,Arjun Nair,55,Mumbai,Marketing,71000,2019-12-18
+1032,Siddharth Roy,41,,Finance,107000,2024/02/23
+1033,Divya Menon,45,Bangalore,Finance,46000,2020-04-18
+1034,Arjun Nair,36, PUNE ,IT,103000,2024-04-26
+1035,Sneha Iyer,34,Chennai,Marketing,91000,2021-06-24
+1036,Aarav Sharma,52,Mumbai,IT,58000,2019-12-20
+1037,Anjali Rao,, CHENNAI ,IT,35000,2019-02-08
+1038,Neha Gupta,35,Delhi,IT,86000,2022-10-27
+1039,Aarav Sharma,27,Chennai,IT,$109000,2018-07-26
+1040,Kavya Reddy,33,Delhi,HR,80000,2024-11-11
+1041,Priya Patel,,Hyderabad,HR,76000,2023/02/24
+1042,Rohan Mehta,23,Delhi,Marketing,44000,2022-08-26
+1043,Rahul Das,52,Delhi,Finance,109000,2020-03-18
+1044,Arjun Nair,22,Delhi,Sales,117000,2023-02-17
+1045,Kavya Reddy,, DELHI ,HR,52000,2018-05-07
+1046,Vikram Singh,42,Pune,Marketing,$58000,2022/07/27
+1047,Rohan Mehta,51,Mumbai,IT,109000,2022-09-14
+1048,Divya Menon,31,Pune,Marketing,92000,2022-01-28
+1049,Neha Gupta,22,Delhi,Finance,,2019-03-16
+1050,Pooja Joshi,25,hyderabad,Sales,66000,2023-09-17
+1051,Arjun Nair,25,Chennai,Sales,56000,2019-05-02
+1052,Imran Khan,50,Mumbai,finance,96000,2018-02-15
+1053,Anjali Rao,54,Pune,Finance,50000,2023-05-15
+1054,Arjun Nair,54,Pune,HR,56000,2023-09-09
+1055,Siddharth Roy,50,Pune,Marketing,$42000,2021/02/13
+1056,Neha Gupta,37,Bangalore,Sales,79000,2018-04-22
+1057,Vikram Singh,45,Mumbai,Marketing,43000,2020/03/15
+1058,Sneha Iyer,47,Hyderabad,Sales,87000,2019-11-27
+1059,Sneha Iyer,54,Delhi,HR,76000,2020-07-07
+1060,Anjali Rao,45,Bangalore,Sales,27000,2020-09-15
+1004,Pooja Joshi,25,Mumbai,Marketing,98000,2022-07-02
+1011,Pooja Joshi,54,,Sales,78000,2019-06-05
+1026,Anjali Rao,28,pune,Sales,25000,2022-03-18
