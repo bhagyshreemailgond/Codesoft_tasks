@@ -17,6 +17,9 @@ A three-part data analytics project covering data cleaning, exploratory data ana
 | `Task3_Visualization.ipynb` | Matplotlib/Seaborn charts and dashboard |
 | `dashboard.png` | Static dashboard image |
 | `Task3_Dashboard.pbix` | Interactive Power BI dashboard |
+| `customer_data.csv` | Customer dataset (200 customers) |
+| `Task4_Customer_Analysis.ipynb` | Customer segmentation and insights |
+| `customer_dashboard.png` | Customer insights dashboard |
 
 **Dataset columns:** employee_id, name, age, city, department, salary, join_date
 
@@ -80,7 +83,26 @@ A three-part data analytics project covering data cleaning, exploratory data ana
 - Average pay by age group stays between about 71,000 and 79,000, so older staff do not earn more.
 
 ---
+## Task 4: Customer Data Analysis
+Analyzed 200 customers (total revenue about 2.4M) to understand buying behavior, segment customers and suggest marketing actions.
 
+![Customer Insights](customer_dashboard.png)
+
+**Key insights**
+- Ages 26-35 spend the most (about 13,300 per customer).
+- Delhi, Mumbai and Bangalore bring about 73% of revenue.
+- Electronics buyers spend nearly double other categories.
+- The top 20% of customers bring in 39% of revenue.
+- 117 customers have been inactive for 180+ days.
+
+**Marketing strategies**
+- Loyalty rewards and early access for Platinum customers.
+- Focus ads on ages 26-45 and the top 3 cities.
+- Cross-sell accessories to Electronics buyers.
+- Win-back discounts for inactive customers.
+- Local offers in Pune and Hyderabad.
+  
+---
 ## How to Run
 
 ```bash
